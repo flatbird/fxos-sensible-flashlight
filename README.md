@@ -1,2 +1,1 @@
-# fxos-sensible-flashlight
-Sensible Firefox OS sample
+# Sensible sample for Firefox OS

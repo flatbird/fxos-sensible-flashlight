@@ -1,0 +1,15 @@
+body {
+	font-size: 18px;
+}
+h1 {
+	font-size: 24px;
+}
+select {
+	font-size: 18px;
+	width: 50%;
+}
+.output {
+	border: solid 1px gray;
+	height: 70vh;
+	overflow: scroll;
+}

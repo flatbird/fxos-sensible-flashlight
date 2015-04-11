@@ -1,0 +1,7 @@
+{
+	"name": "flashlight",
+	"type": "_sensible._tcp.local",
+	"port": 3000,
+	"description": "Firefox OS flashlight",
+	"hostname": "flashlight.local"
+}

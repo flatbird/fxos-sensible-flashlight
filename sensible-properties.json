@@ -1,0 +1,9 @@
+[
+	{
+		"name": "flashModes",
+		"type": "list",
+		"priority": 0,
+		"readonly": true,
+		"value": []
+	}
+]
